@@ -12,4 +12,4 @@
 
 "우리집 드래곤 뽀삐"님의 포스팅을 참고하였습니다. (링크 : https://www.hanbit.co.kr/media/openbook/cocos2d-x/)
 
-시연 영상 링크 : https://youtu.be/rjpH4oHlKNw
+시연 영상 링크 : https://youtu.be/eBlBIoV7OKw
